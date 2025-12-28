@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300">
@@ -52,3 +53,6 @@ Aplikasi ini memudahkan masyarakat menemukan fasilitas kesehatan terdekat dengan
 git clone https://github.com/atakariyusup3-cyber/webgis-fasilitas-kesehatan.git
 cd webgis-fasilitas-kesehatan
 ```
+=======
+# webgis-fasilitas-kesehatan
+>>>>>>> d91469428b1ab3d72ffa0cb1f526d8641f85d8f0
